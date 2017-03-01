@@ -7,9 +7,11 @@ https://bibhuticoder.github.io/phaserflight/
 #usage
 
 - development mode
+
 npm install && npm start
 
 - production mode
+
 npm run production
 
 
