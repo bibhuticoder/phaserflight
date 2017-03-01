@@ -1,0 +1,28 @@
+{"frames": {
+
+"player_fly.png":
+{
+	"frame": {"x":1,"y":1,"w":97,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":97,"h":68},
+	"sourceSize": {"w":100,"h":70}
+},
+"player_hit.png":
+{
+	"frame": {"x":1,"y":71,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":97,"h":67},
+	"sourceSize": {"w":100,"h":71}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player.png",
+	"format": "RGBA8888",
+	"size": {"w":99,"h":139},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:681a6aad188785712e22993cbb1a207b:1d26f208b1caf101e25e2dc6c5104654:86d5339b780aedd87b35e2b7c0a7e11b$"
+}
+}
